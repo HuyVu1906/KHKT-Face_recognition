@@ -1,2 +1,7 @@
-# KHKT-Face_recognition
-Dự án của lớp 11A1
+file thuộc môi trường ảo là:
+Include
+insightface
+Lib
+Scripts
+share
+pyvenc.cfg
